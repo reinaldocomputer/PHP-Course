@@ -5,6 +5,12 @@
 You can see here my files of PHP course (see link above).
 I hope share the knowledge got in the course and to improve the methods learned there.
 
+## Recommended Tools
+### XAMPP
+https://www.apachefriends.org/index.html
+
+## Brackets
+http://brackets.io/
 
 You can contact me by my e-mail:
 rfsaraujobr@gmail.com
