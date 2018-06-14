@@ -9,8 +9,14 @@ I hope share the knowledge got in the course and to improve the methods learned 
 ### XAMPP
 https://www.apachefriends.org/index.html
 
-## Brackets
+### Brackets
 http://brackets.io/
+#### Extensions
+..* Emmet
+..* Monokai Theme
+
+
+## Contact
 
 You can contact me by my e-mail:
 rfsaraujobr@gmail.com
